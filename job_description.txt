@@ -1,0 +1,17 @@
+Job description:
+title: OpenAI Technical Expert Data Scientist,
+responsibilities: 
+Development and implementation of machine learning/AI models for applications, e.g. in the area of ​​natural language processing (NLP) or computer vision, with a focus on OpenAI technologies (LLM)", 
+Close collaboration with other data scientists and TÜV SÜD business units, subject matter experts, internal and external service providers,
+Case-based assessment and advice on the use of analytical methods and approaches (particularly OpenAI technologies) to improve our processes and services.,
+Supporting business areas as an internal development partner, from idea generation to implementation.
+
+requirements: 
+Completed master's degree in computer science, mathematics, physics or a comparable qualification with a focus on machine learning/artificial intelligence,
+Three years of experience implementing machine learning/AI models, including the use of OpenAI technologies,
+In-depth expertise in current methods in the field of ML and AI, especially Large Language Models,
+Experience with cloud computing platforms, specifically Azure,
+Extensive knowledge of relevant programming languages, including Python,
+Good knowledge of NLP and/or computer vision,
+Strong analytical skills and the ability to solve complex problems,
+Excellent written and oral communication skills in German and English
